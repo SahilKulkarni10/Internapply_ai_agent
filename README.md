@@ -1,1 +1,1 @@
-Automate Internship Applications on Internshala with AI
+Automate Internship Applications on Internshala with ai_agent
